@@ -10,7 +10,7 @@ import Foundation
 
 @MainActor
 final class WeatherService {
-    private let apiKey = "f616399b179d0a9f3d1ae11216b1fa50" // API key
+    private let apiKey = "API key" // API key
     
     // Fetches current weather and daily forecast data for a given latitude and longitude.
     // Returns a WeatherResponse model or throws an error if something fails.
