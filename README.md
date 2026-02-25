@@ -1,4 +1,4 @@
-# WeatherDashboard
+# Weather Dashboard
 
 WeatherDashboard is a native iOS application developed using SwiftUI. The purpose of the application is to provide real-time weather information and nearby tourist attractions for any user-specified location worldwide.
 
